@@ -1,0 +1,30 @@
+Hello, welcome to bug bounty course.
+
+Introduction to Bug Bounty and Bug Crowd
+ Cross site scripting (Reflected / Persistent /
+DOM ) Self XSS to Reflected, Remote File XSS
+attack, XSS attack through File
+ Command Injection /Execution
+ Server Side Request Forgery
+ HTML Injection
+ File Inclusion (LFI /RFI)
+ Directory Traversal
+ Insecure CORS Configuration
+ Source Code Disclosure
+ Missing/insufficient SPF record
+ Script Source Code Disclosure
+ HTTP Parameter Pollution Attack
+ Hostile Subdomain Takeover
+ CRLF Injection
+ Host Header Attack
+ Parameter Tampering
+ URL Redirection / Open Redirection
+ Cross Site Request Forgery Attack
+ SQL Injection - (Advance SQL Injection )
+ File Uploading
+ WAF Bypassing
+ Critical File Found
+ XML External Entity Injection
+ Client Side Template Injection
+ LDAP Injection
+ Documenting & Reporting Vulnerability
