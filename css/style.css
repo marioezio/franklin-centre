@@ -1,0 +1,25 @@
+body{
+  background-color: #F037A5
+}
+.h{
+ font-size: 25px;
+ color: #FEF7DC;
+}
+.h1
+{
+  color: #21094E;
+font-size: 25px;
+}
+hr{
+  border-color: #3D84B8;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 30%;
+}
+a:hover{
+  color: gold;
+}
+.circular{
+  border-radius: 10%;
+}
